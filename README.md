@@ -105,6 +105,12 @@ The server is now listing to [http://localhost:8080/plantuml](http://localhost:8
 
 You may specify the port in `-p` Docker command line argument.
 
+Alternate: Run with Cloud Run 
+======================================================
+
+If you have a GCP project, run it immediately with this button:
+
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run?revision=cloudrun)
 
 How to generate the war
 =======================
